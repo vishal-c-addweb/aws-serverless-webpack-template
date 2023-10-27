@@ -110,6 +110,12 @@ dist
 # Serverless directories
 .serverless/
 
+# webpack directories
+.webpack/
+
+# esbuild directories
+.esbuild
+
 # FuseBox cache
 .fusebox/
 
